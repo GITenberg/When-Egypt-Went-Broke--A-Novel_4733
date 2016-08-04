@@ -1,0 +1,26 @@
+_repo: When-Egypt-Went-Broke--A-Novel_4733
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Day, Holman
+    alias: Day, Holman Francis
+    birthdate: 1865
+    deathdate: 1935
+    gutenberg_agent_id: '1556'
+    url: http://www.gutenberg.org/2009/agents/1556
+    wikipedia: http://en.wikipedia.org/wiki/Holman_Day
+description: ''
+gutenberg_issued: '2006-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4733'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'When Egypt Went Broke: A Novel'
+url: http://www.gutenberg.org/ebooks/4733
